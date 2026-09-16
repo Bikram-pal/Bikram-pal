@@ -7,7 +7,6 @@
 ### 👨‍🎓 About Me
 
 - 🎓 Third-Year B.Tech CSE Student at **IEM, Newtown**
-- 📍 From **Kamalpur**, Nadia, West Bengal
 - 🧠 Interested in **Web Development**, Competitive Coding & Projects
 - 🛠️ Working on **C, Python, JavaScript, C++, React**
 - 🌱 Learning **DSA**
